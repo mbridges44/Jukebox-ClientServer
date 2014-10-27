@@ -1,0 +1,10 @@
+<properties>
+   serverName=Penthouse Server
+   serverPort=12345
+   logFileDirectory=log
+   echoLog=true
+   logFlushInterval=500
+   group = 227.226.225.224
+   port = 22322
+
+</properties>
